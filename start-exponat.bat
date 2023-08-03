@@ -1,0 +1,2 @@
+start "" chrome.exe --kiosk --disable-session-crashed-bubble --disable-infobars --fullscreen --incognito --use-fake-ui-for-media-stream --disable-pinch --overscroll-history-navigation=0 C:\Users\MAE_Vegan\Desktop\MAE_vegan_V2\MAE_vegan_V2.html
+REM taskkill/F /IM explorer.exe
