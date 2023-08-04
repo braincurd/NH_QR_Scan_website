@@ -1,5 +1,5 @@
 let currentPicture = 0;
-const idleTimeout = 120000; // 2 minutes in milliseconds
+const idleTimeout = 30000; // 30 seconds in milliseconds
 let idleTimer;
 
 function setBackground(imageClass) {
